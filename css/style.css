@@ -19,4 +19,7 @@
 
 
 /*~~~~~~~ Pasta SEGUROS ~~~~~~~*/
-@import "./seguros/seguros.css"
+@import "./seguros/seguros.css";
+
+/*~~~~~~~ Pasta TERMOS ~~~~~~~*/
+@import "./termos/termos.css";
