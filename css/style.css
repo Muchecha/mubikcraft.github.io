@@ -10,6 +10,7 @@
 /*~~~~~~~ Pasta HOME ~~~~~~~*/
 @import "./home/home.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
 
 /*~~~~~~~ Pasta BICICLETAS ~~~~~~~*/
 @import "./bicicletas/bicicleta-lista.css";
