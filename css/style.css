@@ -3,10 +3,12 @@
 @import "./global/header.css";
 @import "./global/footer.css";
 
+
 /*~~~~~~~ Pasta UTILIDADES ~~~~~~~*/
 @import "./utilidades/tipografia.css";
 @import "./utilidades/componentes.css";
 @import "./utilidades/cores.css";
+
 
 /*~~~~~~~ Pasta HOME ~~~~~~~*/
 @import "./home/home.css";
@@ -14,12 +16,15 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
+
 /*~~~~~~~ Pasta BICICLETAS ~~~~~~~*/
 @import "./bicicletas/bicicleta-lista.css";
+@import "./bicicletas/bicicletas.css";
 
 
 /*~~~~~~~ Pasta SEGUROS ~~~~~~~*/
 @import "./seguros/seguros.css";
+
 
 /*~~~~~~~ Pasta TERMOS ~~~~~~~*/
 @import "./termos/termos.css";
