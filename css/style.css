@@ -22,6 +22,11 @@
 @import "./bicicletas/bicicletas.css";
 
 
+/*~~~~~~~ Pasta BICICLETAS ~~~~~~~*/
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
+
+
 /*~~~~~~~ Pasta SEGUROS ~~~~~~~*/
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
